@@ -1,2 +1,3 @@
-# Multi video playback with animations #
-Practical example to be used in an upcoming JS article about multi video playback and animations
+# Creating an Interactive Video Showcase with the Video API
+
+Code to accompany the following article: http://www.sitepoint.com/interactive-video-showcase-video-api/
